@@ -6,10 +6,6 @@
 
 > [Modifique O Arquivo lista.txt  e insira Sua Wordlist Caso já tenha uma .]
 
-## 📥Requisitos📥
-
-> [Termux Instalado]
-
 ## 🔥Instalação:🔥
 
 ```shell
