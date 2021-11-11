@@ -1,7 +1,7 @@
 #!/bin/bash
-cat /sdcard/Download/banner.txt | lolcat
+cat banner.txt | lolcat
 echo "         "
-cat /sdcard/Download/creditos.txt | lolcat
+cat creditos.txt | lolcat
 for palavra in $(cat lista.txt)
 do
 resposta=$(curl -s -o /dev/null -w "%{http_code}" $1/$palavra/)
