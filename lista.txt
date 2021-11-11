@@ -1,0 +1,6 @@
+admin
+robots.txt
+administrador
+logs
+login.php
+css
