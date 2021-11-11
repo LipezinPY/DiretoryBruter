@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 cat banner.txt | lolcat
 echo "         "
 cat creditos.txt | lolcat
